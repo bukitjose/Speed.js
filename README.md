@@ -13,7 +13,7 @@ Speed.js a simple JavaScript file for html to make it load faster.
 # How to use it
 You can use it by simply adding the speed.js to your site.
 
-```javascript script src="speed.js"```
+`script src="speed.js"`
 
 # How it works?
 Speed.js use WSM (WebsiteSpeedModule) to make website more faster
