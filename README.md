@@ -1,4 +1,6 @@
 # Speed.js
+<img alt="Static Badge" src="https://img.shields.io/badge/Speed-JS-yellow"> <img alt="Static Badge" src="https://img.shields.io/badge/Java-Script-orange">
+
 Speed.js a simple JavaScript file for html to make it load faster.
 
 # Prove
