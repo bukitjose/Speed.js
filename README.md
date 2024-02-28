@@ -1,6 +1,13 @@
 # Speed.js
 Speed.js a simple JavaScript file for html to make it load faster.
 
+# Prove
+<h1>Before</h1>
+<img src="prove-before.jpg" alt="Prove Before Image">
+<br>
+<h1>After</h1>
+<img src="prove-after.jpg" alt="Prove After Image">
+
 # How it works?
 Speed.js use WSM (WebsiteSpeedModule) to make website more faster
 
