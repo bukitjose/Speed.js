@@ -10,6 +10,11 @@ Speed.js a simple JavaScript file for html to make it load faster.
 <p>After:</p>
 <img src="prove-after.jpg" alt="Prove After Image">
 
+# How to use it
+You can use it by simply adding the speed.js to your site.
+
+`script src="speed.js"`
+
 # How it works?
 Speed.js use WSM (WebsiteSpeedModule) to make website more faster
 
@@ -66,10 +71,5 @@ Here are all 50 features included in the `WebsiteSpeedModule` JavaScript module:
 48. Reduce Global Variables (duplicate entry)
 49. Use HTTP/2 (duplicate entry)
 50. Use WebP Images (duplicate entry)
-    
-# How to use it
-You can use it by simply adding the speed.js to your site.
-
-`script src="speed.js"`
 
 **Made by Jose**
