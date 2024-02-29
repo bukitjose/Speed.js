@@ -1,5 +1,5 @@
 # Speed.js
-<img alt="Static Badge" src="https://img.shields.io/badge/Speed-JS-yellow"> <img alt="Static Badge" src="https://img.shields.io/badge/Java-Script-orange">
+<img alt="Static Badge" src="https://img.shields.io/badge/Speed-JS-yellow"> <img alt="Static Badge" src="https://img.shields.io/badge/Status-Beta-black"> <img alt="Static Badge" src="https://img.shields.io/badge/Java-Script-orange">
 
 Speed.js is a simple JavaScript file for HTML site to make it load faster.
 
